@@ -8,7 +8,7 @@ export default function Home() {
     <main>
       <Navbar />
       <VideoBackground />
-      
+    
       {/* Add your main content here */}
     </main>
   )
